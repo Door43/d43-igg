@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[igg:home|Door43 (igg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-igg|d43-igg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-igg/archive/master.zip|d43-igg.zip]]
+
+**Recent Changes**
+{{changes>ns = igg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/igg|Ethnologue data]]
+
